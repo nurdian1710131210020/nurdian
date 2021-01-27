@@ -1,0 +1,130 @@
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="edit.css">
+	<style >
+.dropbtn{
+	background-color:navy;
+	color: white;
+	padding: 20px;
+	font-size: 16px;
+	border:double;
+	cursor:pointer;
+}
+.dropdown{
+	position: relative;
+	display: inline-block;
+}
+.dropdown-content{
+	display: none;
+	position: absolute;
+	right: 2;
+	background-color:midnightblue;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0,2);
+	z-index: 1;
+	border: double;
+}
+.dropdown-content a {
+	color: white;
+	padding:12px 16px;
+	text-decoration: none;
+	display: block;
+}
+.dropdown:hover
+.dropdown-content{
+	display: block;
+}
+.dropdown:hover
+.dropbtn{
+	background-color: yellow;
+}
+</style>
+</head>
+<body>
+<div id="container">
+   <div class="header"><center><h2>Dunia Berita</h2></div></center>
+   <div class="content">
+       <!--Sobat bisa gunakan Text Lorem Ipsum disini-->
+   </div>
+   <center><div class="footer">
+      Kelompok 13
+   </div></center>
+<div class="dropdown" style="float:left;">
+	<a href="barudrop.html">
+	<button class="dropbtn">Beranda</button>
+		</div>
+
+<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Berita</button>
+	<div class="dropdown-content" style="left:0;">
+		<a href="halaman1.html">Berita 1</a>
+		<a href="halaman2.html">Berita 2</a>
+		<a href="halaman3.html">Berita 3</a>
+		<a href="halaman4.html">Berita 4</a>
+		<a href="belajar.html">Berita 5</a>
+		<a href="halaman6.html">Berita 6</a>
+		<a href="halaman7.html">Berita 7</a>
+		<a href="halaman8.html">Berita 8</a>
+		<a href="halaman9.html">Berita 9</a>
+		<a href="halaman10.html">Berita 10</a>
+		<a href="halaman11.html">Berita 11</a>
+		</div>
+	</div>
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Profil</button>
+	<div class="dropdown-content" style="left:0;">
+		<a href="alfisyahrin.html">Alfi</a>
+		</div>
+	</div>
+	<div class="dropdown" style="float:left;">
+		<a href="sepakbola.html">
+	<button class="dropbtn">Sepak Bola</button></a>
+		</div>
+			<a href="motogp.html">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Moto Gp</button></a>
+		</div>
+			<a href="bulutangkis.html">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Bulu Tangkis</button>
+		</div>
+			<a href="inspirasi.html">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Inspirasi</button>
+		</div>
+			<a href="Ilmiah.html">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Ilmiah</button>
+		</div>
+			<a href="#">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Makanan</button>
+		</div>
+				<a href="#">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Binatang</button>
+		</div>
+				<a href="#">
+	<div class="dropdown" style="float:left;">
+	<button class="dropbtn">Musik</button>
+		</div>
+	</a>
+<!--Judul-->
+<center><h3 style="color: black">UPDATE:Bertambah 97 Perse Meninggal Akibat COVID-19, Kini 15.600 Orang </h3></center>
+	<p style="color:gray;"> Kompas.com - 19/11/2020, 15:28 WIB</p>
+<tr>
+	<center><img src="berita5.png"  alt="0" align="top"
+			height="400px"><br/></center>
+		<sub><span style="color:Gray";>Petugas pemakaman memasukan jenazah ke dalam lubang di lokasi pemakaman COVID-19 TPU Pondok Ranggon, Jakarta, Jumat (2/10/2020). Pemerintah Provinsi DKI Jakarta memperluas lahan untuk pemakaman jenazah bagi yang meninggal dunia karena terkait COVID-19 di TPU Pondok Ranggon, di mana perluasan dilakukan selama dua bulan dan dilakukan dalam dua tahap yaitu tahap pertama, Dinas Bina Marga DKI membuka lahan sekitar 7.141 meter persegi. ANTARA FOTO/Muhammad Adimaja/wsj.</span></sub><br/>
+		
+		</tr>
+	<!--paragraf pertama-->
+	<p style="color: black">Penulis:<b> Dian Erika Nugraheny </b> | Editor: <b> Dani Prabowo</b> </p>
+	<p style="color: black"><b>JAKARTA, KOMPAS.com </b>-Kasus pasien meninggal akibat Covid-19 masih terus bertambah. Hingga Kamis (19/11/2020), data Satuan Tugas Penanganan Covid-19 menunjukkan penambahan 110 pasien tutup usia dalam 24 jam terakhir.   Penambahan tersebut menyebabkan total jumlah kasus kematian akibat virus corona mencapai 15.600 orang. Data tersebut dapat diakses publik melalui situs Covid19.go.id dan Kemkes.go.id, dengan update yang muncul setiap sore. </p>
+	<!--paragraf kedua-->
+	<p style="color: black">Sementara itu, pemerintah melaporkan penambahan 4.798 kasus positif Covid-19. Penambahan tersebut, menyebabkan total jumlah pasien terkonfirmasi positif Covid-19 menjadi 483.518 orang, sejak pengumuman kasus perdana pada 2 Maret 2020Kemudian, pasien yang dinyatakan sembuh dari Covid-19 bertambah 4.265 orang. Pasien dinyatakan sembuh setelah mendapatkan hasil dua kali negatif dalam pemeriksaan laboratorium polymerase chain reaction (PCR). Dengan demikian, total pasien sembuh dari Covid-19 berjumlah 406.612 orang.Kemudian, terdapat data 505 kabupaten/kota di 34 provinsi yang terpapar Covid-19. Ini berarti sudah lebih dari 98 persen wilayah Indonesia terdampak penularan virus corona. </p>
+	
+	
+</body>
+</body>
+</html>
